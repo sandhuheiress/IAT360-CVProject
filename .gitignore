@@ -1,0 +1,12 @@
+# LISA is academic-use only: link it, don't upload it
+lisa_yolo.zip
+lisa/
+traffic_signs/
+
+# training outputs and weights
+runs/
+*.pt
+
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
