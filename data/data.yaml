@@ -1,0 +1,15 @@
+# copy of the data.yaml the notebook makes in colab
+# path points to where the notebook builds the dataset in colab
+names:
+- stop
+- speed_limit
+- yield
+- pedestrian_crossing
+- school_zone
+- signal_ahead
+- keep_right
+- merge
+path: /content/traffic_signs
+test: test/images
+train: train/images
+val: valid/images
