@@ -1,0 +1,8 @@
+keep_right
+merge
+pedestrian_crossing
+school_zone
+signal_ahead
+speed_limit
+stop
+yield
